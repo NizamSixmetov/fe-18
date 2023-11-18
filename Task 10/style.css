@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+
+.loader{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
